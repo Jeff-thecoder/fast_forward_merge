@@ -1,5 +1,7 @@
 ### **Steps for a basic fast forward merge**   
 ---   
+
+#### Setup Project    
 ```md
 git init   
 git add .   
